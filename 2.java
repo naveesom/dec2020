@@ -1,1 +1,2 @@
 seconf file
+idea1
